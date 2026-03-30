@@ -1,0 +1,9 @@
+Spring Boot is a popular Java framework used for building microservices.
+
+AWS is a cloud computing platform that offers services like EC2, S3, Lambda, and RDS.
+
+Docker is a containerization platform used to package applications with their dependencies.
+
+Vector databases store embeddings and allow semantic search.
+
+Retrieval-Augmented Generation (RAG) combines vector search with large language models.
