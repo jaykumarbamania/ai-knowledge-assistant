@@ -1,0 +1,1 @@
+This file is created to point this faiss_index/ directory. Here 2 files Index.bin and DOcuments.pkl files will be created.
